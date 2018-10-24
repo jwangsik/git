@@ -29,5 +29,5 @@ git reset : 이전 단계로 되돌리는 방법. 로그를 확인해서 commit 
 
 git 불필요한 revision 을 뭉개 없애기 : 
 git rebase -i HEAD~2 : 현재 branch 의 2개의 변경내용이 Editor 에 표시됨. 
-[출처] Git 명령어 정리|작성자 힌구름
+
 
